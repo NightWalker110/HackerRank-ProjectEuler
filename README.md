@@ -1,4 +1,4 @@
 # HackerRank-ProjectEuler-
 
-These are the programs of hackerrank contest named Project Euler.
+These are the programs of HackerRank contest named Project Euler.
 
