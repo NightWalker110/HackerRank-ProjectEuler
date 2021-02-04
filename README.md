@@ -1,3 +1,3 @@
 # HackerRank-ProjectEuler-
 
-These are programs of 
+These are the programs of 
